@@ -1,11 +1,13 @@
+commit 9cbefcda80ebdc8c0a6672379dbe4886f9a51526
+Author: emilibezerra <emilisilva23@gmail.com>
+Date:   Thu May 16 10:09:34 2024 -0500
 
-numpy
-pandas
-blobfile
-nibabel
-opencv-python
-scikit-image
-matplotlib
-batchgenerators
-visdom
-torchsummary
+    apaguei coisas
+
+commit eb38e28a2d58d6546e27606986db0955e5c3a496
+Author: emilibezerra <emilisilva23@gmail.com>
+Date:   Wed May 15 10:44:07 2024 -0500
+
+    adicionar imagens
+    
+    estou com fome
